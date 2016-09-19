@@ -3,8 +3,7 @@ package sample;
 public class print2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-jhkj
+rterterte
 	}
 
 }
